@@ -1,66 +1,39 @@
 <!DOCTYPE html>
-
 <html lang="de">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nutzungsbedingungen – yalimba</title>
-    <style>
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #FDF8F5; color: #2C1810; line-height: 1.7; padding: 40px 20px; }
-        .container { max-width: 720px; margin: 0 auto; }
-        h1 { font-size: 28px; font-weight: 300; margin-bottom: 8px; letter-spacing: -0.5px; }
-        .subtitle { font-size: 13px; color: #8A7262; margin-bottom: 40px; }
-        h2 { font-size: 18px; font-weight: 600; margin-top: 32px; margin-bottom: 12px; color: #4A1520; }
-        p { font-size: 15px; margin-bottom: 16px; color: #3D2B1F; }
-        a { color: #C2785A; text-decoration: none; }
-        .footer { margin-top: 48px; padding-top: 24px; border-top: 1px solid rgba(44,24,16,0.08); font-size: 12px; color: #8A7262; }
-    </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Nutzungsbedingungen – yalimba</title>
+<style>*{margin:0;padding:0;box-sizing:border-box}body{font-family:-apple-system,sans-serif;background:#fff;color:#1A1A1A;padding:40px 24px;max-width:700px;margin:0 auto;line-height:1.7}h1{font-size:28px;margin-bottom:24px}h2{font-size:18px;margin:32px 0 8px}p{margin-bottom:12px;color:#444;font-size:15px}a{color:#C4553A}</style>
 </head>
 <body>
-    <div class="container">
-        <h1>Nutzungsbedingungen</h1>
-        <p class="subtitle">Stand: März 2026 · yalimba · Azra Arikan</p>
+<h1>Nutzungsbedingungen</h1>
+<p>Stand: April 2026</p>
 
-```
-    <h2>1. Geltungsbereich</h2>
-    <p>Diese Nutzungsbedingungen gelten für die Nutzung der mobilen Anwendung „yalimba" (nachfolgend „App"), bereitgestellt von Azra Arikan, Schönefeld, Deutschland (nachfolgend „Anbieter"). Mit der Registrierung und Nutzung der App akzeptieren Sie diese Bedingungen.</p>
+<h2>1. Geltungsbereich</h2>
+<p>Diese Nutzungsbedingungen gelten für die Nutzung der App yalimba, bereitgestellt von Azra Arikan, Deutschland.</p>
 
-    <h2>2. Leistungsbeschreibung</h2>
-    <p>yalimba ist eine KI-gestützte Wellness-Companion-App. Die App bietet Mood-Tracking, geführte Übungen, ein digitales Tagebuch, einen Wellness-Planer und einen KI-Chat mit „Mila". Die App ersetzt keine professionelle Therapie, psychologische Beratung oder medizinische Behandlung.</p>
+<h2>2. Leistungsbeschreibung</h2>
+<p>yalimba bietet personalisierte Analysen in Form von Umfragen. Die Ergebnisse basieren auf den Antworten der Nutzerin und stellen keine medizinische, psychologische oder therapeutische Beratung dar.</p>
 
-    <h2>3. Registrierung und Konto</h2>
-    <p>Zur Nutzung ist eine Registrierung mit gültiger E-Mail-Adresse erforderlich. Sie sind für die Sicherheit Ihrer Zugangsdaten verantwortlich. Sie können Ihr Konto jederzeit in den App-Einstellungen löschen. Bei Löschung werden alle personenbezogenen Daten unwiderruflich entfernt.</p>
+<h2>3. Kostenlose und kostenpflichtige Inhalte</h2>
+<p>Die Registrierung und die erste Analyse (25 Fragen) sind kostenlos. Weitere Analysen können einzeln für 4,99€ als In-App-Kauf erworben werden. Die Zahlung erfolgt über Apple In-App Purchase.</p>
 
-    <h2>4. Premium-Abonnement</h2>
-    <p>yalimba bietet ein kostenloses Basiskonto und ein Premium-Abonnement. Premium kostet 22,00 EUR pro Monat oder 220,00 EUR pro Jahr. Die Zahlung erfolgt über Apple In-App Purchase. Das Abonnement verlängert sich automatisch, sofern es nicht mindestens 24 Stunden vor Ablauf der aktuellen Periode gekündigt wird. Die Kündigung erfolgt über die Abo-Verwaltung in den iOS-Einstellungen.</p>
+<h2>4. Kein Abo</h2>
+<p>Einzelne Analysen sind Einmalkäufe. Es gibt keine automatische Verlängerung und kein Abonnement.</p>
 
-    <h2>5. KI-Hinweis und Haftungsausschluss</h2>
-    <p>Die KI-Begleiterin „Mila" ist ein Sprachmodell und keine ausgebildete Therapeutin, Ärztin oder Beraterin. Mila gibt keine medizinischen Diagnosen, verschreibt keine Medikamente und ersetzt keine professionelle Hilfe. Bei psychischen Krisen wenden Sie sich bitte an die Telefonseelsorge: 0800 111 0 111 (kostenlos, 24/7).</p>
+<h2>5. Kein Ersatz für professionelle Beratung</h2>
+<p>Die Ergebnisse von yalimba ersetzen keine professionelle Beratung. Bei ernsthaften Problemen wende dich bitte an eine Fachperson.</p>
 
-    <h2>6. Datenschutz</h2>
-    <p>Informationen zur Verarbeitung personenbezogener Daten finden Sie in unserer <a href="privacy.html">Datenschutzerklärung</a>. Ihre Daten werden auf Servern innerhalb der EU (Supabase) gespeichert und nicht an Dritte verkauft.</p>
+<h2>6. Geistiges Eigentum</h2>
+<p>Alle Inhalte, Fragen und Auswertungsmethoden in yalimba sind urheberrechtlich geschützt.</p>
 
-    <h2>7. Verfügbarkeit</h2>
-    <p>Der Anbieter bemüht sich um eine möglichst unterbrechungsfreie Verfügbarkeit der App. Ein Anspruch auf ständige Verfügbarkeit besteht nicht. Wartungsarbeiten und technische Störungen können die Nutzung vorübergehend einschränken.</p>
+<h2>7. Haftungsbeschränkung</h2>
+<p>yalimba übernimmt keine Haftung für Entscheidungen, die auf Basis der Ergebnisse getroffen werden.</p>
 
-    <h2>8. Geistiges Eigentum</h2>
-    <p>Alle Inhalte der App, einschließlich Texte, Grafiken, Logos und Software, sind Eigentum des Anbieters und urheberrechtlich geschützt. Eine Vervielfältigung oder Verbreitung ohne Zustimmung ist untersagt.</p>
+<h2>8. Kontakt</h2>
+<p>Azra Arikan<br>yalimba.app@gmail.com</p>
 
-    <h2>9. Änderungen der Nutzungsbedingungen</h2>
-    <p>Der Anbieter behält sich vor, diese Nutzungsbedingungen jederzeit zu ändern. Über wesentliche Änderungen werden Nutzer per E-Mail oder In-App-Benachrichtigung informiert. Die fortgesetzte Nutzung nach Inkrafttreten der Änderungen gilt als Zustimmung.</p>
-
-    <h2>10. Anwendbares Recht</h2>
-    <p>Es gilt das Recht der Bundesrepublik Deutschland. Gerichtsstand ist, soweit gesetzlich zulässig, der Sitz des Anbieters.</p>
-
-    <h2>11. Kontakt</h2>
-    <p>Azra Arikan<br>E-Mail: <a href="mailto:yalimba.app@gmail.com">yalimba.app@gmail.com</a><br>Website: <a href="https://yalimba-app-ai.github.io">yalimba-app-ai.github.io</a></p>
-
-    <div class="footer">
-        <p>© 2026 yalimba · Alle Rechte vorbehalten</p>
-    </div>
-</div>
-```
-
+<p style="margin-top:40px"><a href="/">← Zurück</a> · <a href="/privacy">Datenschutz</a></p>
 </body>
 </html>
